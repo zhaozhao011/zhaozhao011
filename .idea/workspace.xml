@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pytest.ini" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3829680a-9dbf-49ac-970d-49a8267637b4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test08_loginTpshop_TestLoginOut_test_login.coverage" NAME="Unittests for test08_loginTpshop.TestLoginOut.test_login Coverage Results" MODIFIED="1569660838436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$9_1.coverage" NAME="9_鼠标拖拽1 Coverage Results" MODIFIED="1569553529218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$25_.coverage" NAME="25_切换多标签页 Coverage Results" MODIFIED="1569638298536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test13_loginTpshop_assert2_TestLoginOut_test_login.coverage" NAME="Unittests for test13_loginTpshop_assert2.TestLoginOut.test_login Coverage Results" MODIFIED="1569679267683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$2.coverage" NAME="2 Coverage Results" MODIFIED="1583758084686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$05_link.coverage" NAME="05_link定位 Coverage Results" MODIFIED="1569481923161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_in_test01_TestCase1_py.coverage" NAME="Unittests in test01_TestCase1.py Coverage Results" MODIFIED="1569651659878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$21_.coverage" NAME="21_水平滚动条 Coverage Results" MODIFIED="1569567836148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$09_xpath_.coverage" NAME="09_xpath定位_相对路径 Coverage Results" MODIFIED="1569497858868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$27_cookie.coverage" NAME="27_cookie的演示 Coverage Results" MODIFIED="1569640876236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test02_TestCase2_Test01_test_01.coverage" NAME="Unittests for test02_TestCase2.Test01.test_01 Coverage Results" MODIFIED="1569651960665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$02_name.coverage" NAME="02_name定位 Coverage Results" MODIFIED="1569479554033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test07_TestCase5_Test01.coverage" NAME="Unittests for test07_TestCase5.Test01 Coverage Results" MODIFIED="1569657353575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$15_select1.coverage" NAME="15_老方法操作select标签1 Coverage Results" MODIFIED="1569563854696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$test06_TestSuite2.coverage" NAME="test06_TestSuite2 Coverage Results" MODIFIED="1569656147382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$10_xpath_.coverage" NAME="10_xpath定位_层级与属性 Coverage Results" MODIFIED="1569498406769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test10_assert1_Test10_test_01.coverage" NAME="Unittests for test10_assert1.Test10.test_01 Coverage Results" MODIFIED="1569672638017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$6_WebDriver.coverage" NAME="6_WebDriver的其他方法和属性 Coverage Results" MODIFIED="1569550907578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$test00_report.coverage" NAME="test00_report Coverage Results" MODIFIED="1569721548987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$13_css.coverage" NAME="13_css之类选择器 Coverage Results" MODIFIED="1569500141049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$14_css.coverage" NAME="14_css之元素选择器 Coverage Results" MODIFIED="1569500450716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test13_loginTpshop_assert2_TestLoginOut.coverage" NAME="Unittests for test13_loginTpshop_assert2.TestLoginOut Coverage Results" MODIFIED="1569716536169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$12_cssid.coverage" NAME="12_css之id选择器 Coverage Results" MODIFIED="1569499879554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$11_.coverage" NAME="11_鼠标悬停 Coverage Results" MODIFIED="1569554040638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$23_frame.coverage" NAME="23_处理frame切换 Coverage Results" MODIFIED="1569570489010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$17_select.coverage" NAME="17_新方法操作select标签 Coverage Results" MODIFIED="1569565106662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$24_.coverage" NAME="24_暴露切换多标签页的一个案例 Coverage Results" MODIFIED="1569636191664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$15_By.coverage" NAME="15_By类定位 Coverage Results" MODIFIED="1569501158941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$28_cookie.coverage" NAME="28_利用cookie避开输入验证码来自动登录百度 Coverage Results" MODIFIED="1569643242636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test13_loginTpshop_assert2_Test12_test_1.coverage" NAME="Unittests for test13_loginTpshop_assert2.Test12.test_1 Coverage Results" MODIFIED="1569681110578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_in_test02_TestCase2_py.coverage" NAME="Unittests in test02_TestCase2.py Coverage Results" MODIFIED="1569718779427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test08_loginTpshop_TestLoginOut.coverage" NAME="Unittests for test08_loginTpshop.TestLoginOut Coverage Results" MODIFIED="1569659954540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$5_4.coverage" NAME="5_操作浏览器对象4 Coverage Results" MODIFIED="1569548257386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$20_.coverage" NAME="20_垂直滚动条 Coverage Results" MODIFIED="1569567650010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$14_.coverage" NAME="14_影式元素等待 Coverage Results" MODIFIED="1569562152293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$16_select2.coverage" NAME="16_老方法操作select标签2 Coverage Results" MODIFIED="1569564077365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$22_frame.coverage" NAME="22_暴露要切换frame的一个问题案例 Coverage Results" MODIFIED="1569570049099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_in_test03_TestCase3_py.coverage" NAME="Unittests in test03_TestCase3.py Coverage Results" MODIFIED="1569652583699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test02_TestCase2_Test01_test_02.coverage" NAME="Unittests for test02_TestCase2.Test01.test_02 Coverage Results" MODIFIED="1569651966649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$18_js.coverage" NAME="18_暴露js弹出框问题的一个案例 Coverage Results" MODIFIED="1569565854934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$12_.coverage" NAME="12_键盘操作 Coverage Results" MODIFIED="1569558650199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$06_partial_link_text.coverage" NAME="06_partial_link_text定位 Coverage Results" MODIFIED="1569482180673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$25_1.coverage" NAME="25_切换多标签页1 Coverage Results" MODIFIED="1569636760979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$04_.coverage" NAME="04_标签名定位 Coverage Results" MODIFIED="1569481654188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$4_3.coverage" NAME="4_操作浏览器对象3 Coverage Results" MODIFIED="1569547772816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test10_assert2_Test10_test_01.coverage" NAME="Unittests for test10_assert2.Test10.test_01 Coverage Results" MODIFIED="1569674344604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$19_js.coverage" NAME="19_处理三种js弹出框 Coverage Results" MODIFIED="1569566662685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test12_loginTpshop_assert_TestLoginOut_test_login.coverage" NAME="Unittests for test12_loginTpshop_assert.TestLoginOut.test_login Coverage Results" MODIFIED="1569718741733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$8_.coverage" NAME="8_鼠标双击 Coverage Results" MODIFIED="1569553289426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$10_2.coverage" NAME="10_鼠标拖拽2 Coverage Results" MODIFIED="1569553702053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$test_abc.coverage" NAME="test_abc Coverage Results" MODIFIED="1583917177393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$test05_TestSuite1.coverage" NAME="test05_TestSuite1 Coverage Results" MODIFIED="1569655222059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$3_2.coverage" NAME="3_操作浏览器对象2 Coverage Results" MODIFIED="1569547107096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$html.coverage" NAME="操作html元素 Coverage Results" MODIFIED="1569545240492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test03_TestCase3_Test01_test_01.coverage" NAME="Unittests for test03_TestCase3.Test01.test_01 Coverage Results" MODIFIED="1569652482805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$test09_TestCase6.coverage" NAME="test09_TestCase6 Coverage Results" MODIFIED="1569662076217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$1.coverage" NAME="1 Coverage Results" MODIFIED="1583912346147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_in_test13_loginTpshop_assert2_py.coverage" NAME="Unittests in test13_loginTpshop_assert2.py Coverage Results" MODIFIED="1569680560920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$2_1.coverage" NAME="2_操作浏览器对象1 Coverage Results" MODIFIED="1569546708082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$login.coverage" NAME="login Coverage Results" MODIFIED="1583915112960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$07_.coverage" NAME="07_用下标 Coverage Results" MODIFIED="1569482430952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$26_.coverage" NAME="26_窗口截图 Coverage Results" MODIFIED="1569639214180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$03_class_name.coverage" NAME="03_class_name定位 Coverage Results" MODIFIED="1569481314032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$11_xpath_.coverage" NAME="11_xpath定位_属性和逻辑结合 Coverage Results" MODIFIED="1569499038589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$13_.coverage" NAME="13_显式元素等待 Coverage Results" MODIFIED="1569561068383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test12_loginTpshop_assert_TestLoginOut.coverage" NAME="Unittests for test12_loginTpshop_assert.TestLoginOut Coverage Results" MODIFIED="1569676116650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test01_TestCase1_Test01_test_01.coverage" NAME="Unittests for test01_TestCase1.Test01.test_01 Coverage Results" MODIFIED="1569651690949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_in_test10_assert2_py.coverage" NAME="Unittests in test10_assert2.py Coverage Results" MODIFIED="1569673981635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_in_test10_assert1_py.coverage" NAME="Unittests in test10_assert1.py Coverage Results" MODIFIED="1569672329486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$08_xpath_.coverage" NAME="08_xpath定位_绝对路径 Coverage Results" MODIFIED="1569497675548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$7_.coverage" NAME="7_鼠标右键 Coverage Results" MODIFIED="1569553033179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$26_2.coverage" NAME="26_切换多标签页2 Coverage Results" MODIFIED="1569637686758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py3_project01$Unittests_for_test02_TestCase2_Test01.coverage" NAME="Unittests for test02_TestCase2.Test01 Coverage Results" MODIFIED="1569652251550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportTestResults" outputFolder="C:/A" userTempatePath="" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/page_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+              <folding>
+                <element signature="e#23#103#0" expanded="true" />
+                <element signature="e#154#395#1" />
+                <element signature="e#448#870#0" />
+                <element signature="e#880#1338#1" />
+                <element signature="e#1386#1918#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/page_display.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/page_network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/16_老方法操作select标签2.py" />
+        <option value="$PROJECT_DIR$/17_新方法操作select标签.py" />
+        <option value="$PROJECT_DIR$/18_暴露js弹出框问题的一个案例.py" />
+        <option value="$PROJECT_DIR$/19_处理三种js弹出框.py" />
+        <option value="$PROJECT_DIR$/20_垂直滚动条.py" />
+        <option value="$PROJECT_DIR$/21_水平滚动条.py" />
+        <option value="$PROJECT_DIR$/22_暴露要切换frame的一个问题案例.py" />
+        <option value="$PROJECT_DIR$/23_处理frame切换.py" />
+        <option value="$PROJECT_DIR$/24_切换多标签页.py" />
+        <option value="$PROJECT_DIR$/24_切换多标签页1.py" />
+        <option value="$PROJECT_DIR$/24_暴露切换多标签页的一个案例.py" />
+        <option value="$PROJECT_DIR$/25_切换多标签页1.py" />
+        <option value="$PROJECT_DIR$/26_切换多标签页2.py" />
+        <option value="$PROJECT_DIR$/25_切换多标签页.py" />
+        <option value="$PROJECT_DIR$/26_窗口截图.py" />
+        <option value="$PROJECT_DIR$/27_cookie的演示.py" />
+        <option value="$PROJECT_DIR$/28_利用cookie避开输入验证码来自动登录百度.py" />
+        <option value="$PROJECT_DIR$/test01_TestCase1.py" />
+        <option value="$PROJECT_DIR$/test02_TestCase2.py" />
+        <option value="$PROJECT_DIR$/test03_TestCase3.py" />
+        <option value="$PROJECT_DIR$/TestCases/test01.py" />
+        <option value="$PROJECT_DIR$/TestCases/test02.py" />
+        <option value="$PROJECT_DIR$/TestCases/test03.py" />
+        <option value="$PROJECT_DIR$/test05_TestSuite1.py" />
+        <option value="$PROJECT_DIR$/test06_TestSuite2.py" />
+        <option value="$PROJECT_DIR$/test07_TestCase5.py" />
+        <option value="$PROJECT_DIR$/test08_loginTpshop.py" />
+        <option value="$PROJECT_DIR$/test08_loginTpsho1p.py" />
+        <option value="$PROJECT_DIR$/test09_TestCase6.py" />
+        <option value="$PROJECT_DIR$/test10_assert1.py" />
+        <option value="$PROJECT_DIR$/test10_assert2.py" />
+        <option value="$PROJECT_DIR$/test12_loginTpshop_assert.py" />
+        <option value="$PROJECT_DIR$/test13_loginTpshop_assert2.py" />
+        <option value="$PROJECT_DIR$/test00_report.py" />
+        <option value="$PROJECT_DIR$/2.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/login.py" />
+        <option value="$PROJECT_DIR$/test_abc.py" />
+        <option value="$PROJECT_DIR$/scripts/test_def.py" />
+        <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/scripts/test_abc.py" />
+        <option value="$PROJECT_DIR$/scripts/test_setting.py" />
+        <option value="$PROJECT_DIR$/base/base_driver.py" />
+        <option value="$PROJECT_DIR$/scripts/test_network.py" />
+        <option value="$PROJECT_DIR$/scripts/te1st_network.py" />
+        <option value="$PROJECT_DIR$/page/page_base.y.py" />
+        <option value="$PROJECT_DIR$/base/page_base.y.py" />
+        <option value="$PROJECT_DIR$/scripts/test_display.py" />
+        <option value="$PROJECT_DIR$/base/page_base.py" />
+        <option value="$PROJECT_DIR$/page/page_display.py" />
+        <option value="$PROJECT_DIR$/page/page_network.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="102" />
+    <option name="y" value="177" />
+    <option name="width" value="1346" />
+    <option name="height" value="607" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="py3_project01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3_project01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py3_project01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py3_project01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py3_project01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3_project01" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm_WK\py3_project01\base" />
+      <recent name="D:\PyCharm_WK\py3_project01\scripts" />
+      <recent name="D:\PyCharm_WK\py3_project01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm_WK\py3_project01\scripts" />
+      <recent name="D:\PyCharm_WK\py3_project01" />
+      <recent name="D:\PyCharm_WK\py3_project01\Tools" />
+      <recent name="D:\PyCharm_WK\py3_project01\TestCases" />
+      <recent name="D:\PyCharm_WK\py3_project01\辅助资料" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_abc">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3_project01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyCharm_WK\py3_project01\scripts\test_setting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3_project01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3_project01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyCharm_WK\py3_project01\scripts\test_setting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test00_report" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3_project01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyCharm_WK\py3_project01\test14_report.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_abc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3_project01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyCharm_WK\py3_project01\scripts\test_setting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_abc" />
+        <item itemvalue="Python.login" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.test00_report" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3829680a-9dbf-49ac-970d-49a8267637b4" name="Default Changelist" comment="" />
+      <created>1569403394236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569403394236</updated>
+      <workItem from="1569403397822" duration="275000" />
+      <workItem from="1569403713372" duration="703000" />
+      <workItem from="1569404450379" duration="69000" />
+      <workItem from="1569463013021" duration="491000" />
+      <workItem from="1569475696491" duration="12314000" />
+      <workItem from="1569543900565" duration="19349000" />
+      <workItem from="1569634617554" duration="28581000" />
+      <workItem from="1569715550779" duration="4255000" />
+      <workItem from="1569721873039" duration="54000" />
+      <workItem from="1569748951962" duration="3015000" />
+      <workItem from="1575544304442" duration="11000000" />
+      <workItem from="1583758041853" duration="676000" />
+      <workItem from="1583802899632" duration="13578000" />
+      <workItem from="1583825191900" duration="13393000" />
+      <workItem from="1583889588311" duration="17421000" />
+      <workItem from="1583926625644" duration="6662000" />
+      <workItem from="1583975770164" duration="17459000" />
+      <workItem from="1584003248058" duration="9846000" />
+      <workItem from="1584111830526" duration="2810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test12_loginTpshop_assert_TestLoginOut_test_login - 2019.09.28 at 21h 48m 42s.xml">
+      <configuration name="Unittests for test12_loginTpshop_assert.TestLoginOut.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test12_loginTpshop_assert_TestLoginOut_test_login - 2019.09.28 at 21h 49m 22s.xml">
+      <configuration name="Unittests for test12_loginTpshop_assert.TestLoginOut.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test13_loginTpshop_assert2_TestLoginOut_test_login - 2019.09.28 at 22h 01m 37s.xml">
+      <configuration name="Unittests for test13_loginTpshop_assert2.TestLoginOut.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test13_loginTpshop_assert2_TestLoginOut - 2019.09.28 at 22h 07m 57s.xml">
+      <configuration name="Unittests for test13_loginTpshop_assert2.TestLoginOut" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test13_loginTpshop_assert2_py - 2019.09.28 at 22h 20m 06s.xml">
+      <configuration name="Unittests in test13_loginTpshop_assert2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test13_loginTpshop_assert2_py - 2019.09.28 at 22h 22m 57s.xml">
+      <configuration name="Unittests in test13_loginTpshop_assert2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test13_loginTpshop_assert2_Test12_test_1 - 2019.09.28 at 22h 32m 06s.xml">
+      <configuration name="Unittests for test13_loginTpshop_assert2.Test12.test_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test13_loginTpshop_assert2_TestLoginOut - 2019.09.29 at 08h 22m 36s.xml">
+      <configuration name="Unittests for test13_loginTpshop_assert2.TestLoginOut" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test12_loginTpshop_assert_TestLoginOut_test_login - 2019.09.29 at 08h 59m 21s.xml">
+      <configuration name="Unittests for test12_loginTpshop_assert.TestLoginOut.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test02_TestCase2_py - 2019.09.29 at 08h 59m 39s.xml">
+      <configuration name="Unittests in test02_TestCase2.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="161951000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4299517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3510467" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38808373" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3268921" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/21_水平滚动条.py" />
+    <entry file="file://$PROJECT_DIR$/22_暴露要切换frame的一个问题案例.py" />
+    <entry file="file://$PROJECT_DIR$/18_暴露js弹出框问题的一个案例.py" />
+    <entry file="file://$PROJECT_DIR$/23_处理frame切换.py" />
+    <entry file="file://$PROJECT_DIR$/24_暴露切换多标签页的一个案例.py" />
+    <entry file="file://$PROJECT_DIR$/26_切换多标签页2.py" />
+    <entry file="file://$PROJECT_DIR$/25_切换多标签页.py" />
+    <entry file="file://$PROJECT_DIR$/Images/1.png" />
+    <entry file="file://$PROJECT_DIR$/26_窗口截图.py" />
+    <entry file="file://$PROJECT_DIR$/27_cookie的演示.py" />
+    <entry file="file://$PROJECT_DIR$/28_利用cookie避开输入验证码来自动登录百度.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01_TestCase1.py" />
+    <entry file="file://$PROJECT_DIR$/test03_TestCase3.py" />
+    <entry file="file://$PROJECT_DIR$/TestCases/test02.py" />
+    <entry file="file://$PROJECT_DIR$/TestCases/test03.py" />
+    <entry file="file://$PROJECT_DIR$/TestCases/test01.py" />
+    <entry file="file://$PROJECT_DIR$/test05_TestSuite1.py" />
+    <entry file="file://$PROJECT_DIR$/test07_TestCase5.py" />
+    <entry file="file://$PROJECT_DIR$/test08_loginTpsho1p.py" />
+    <entry file="file://$PROJECT_DIR$/test10_assert1.py" />
+    <entry file="file://$PROJECT_DIR$/test11_assert2.py" />
+    <entry file="file://$PROJECT_DIR$/test09_TestCase6.py" />
+    <entry file="file://$PROJECT_DIR$/test08_loginTpshop.py" />
+    <entry file="file://$PROJECT_DIR$/Images/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/Images/20190928 214919.jpg" />
+    <entry file="file://$PROJECT_DIR$/Images/20190929082233-'账号格式不正确' not found in '账号格式不匹配!'.jpg" />
+    <entry file="file://$PROJECT_DIR$/test13_loginTpshop_assert2.py" />
+    <entry file="file://$PROJECT_DIR$/test06_TestSuite2.py" />
+    <entry file="file://$PROJECT_DIR$/test12_loginTpshop_assert.py" />
+    <entry file="file://$PROJECT_DIR$/test04_TestCase4.py" />
+    <entry file="file://$PROJECT_DIR$/test02_TestCase2.py" />
+    <entry file="file://$PROJECT_DIR$/Tools/HTMLTestRunner.py" />
+    <entry file="file://$PROJECT_DIR$/Reports/2019-09-29 09_45_49Report.html" />
+    <entry file="file://$PROJECT_DIR$/test14_report.py" />
+    <entry file="file://$PROJECT_DIR$/2.py" />
+    <entry file="file://C:/developer_install/python3.7.4_install/Lib/site-packages/appium/webdriver/common/touch_action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="69" column="58" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/developer_install/python3.7.4_install/Lib/site-packages/appium/webdriver/mobilecommand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/developer_install/python3.7.4_install/Lib/site-packages/appium/webdriver/extensions/keyboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="64" column="16" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/developer_install/python3.7.4_install/Lib/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="668" column="19" lean-forward="true" selection-start-line="668" selection-start-column="19" selection-end-line="668" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/developer_install/python3.7.4_install/Lib/site-packages/appium/webdriver/connectiontype.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test_def.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/test_setting.py" />
+    <entry file="file://C:/developer_install/python3.7.4_install/Lib/site-packages/urllib3/util/selectors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#438#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/base_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="17" lean-forward="true" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/page_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+          <folding>
+            <element signature="e#23#103#0" expanded="true" />
+            <element signature="e#154#395#1" />
+            <element signature="e#448#870#0" />
+            <element signature="e#880#1338#1" />
+            <element signature="e#1386#1918#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/page_display.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test_display.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/page_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
